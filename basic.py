@@ -19,6 +19,3 @@ def get_income_on_row(row):
 
 def build_shop_ui(*dataset):
     return "" #todo add product list
-
-data = import_csv("shop.csv")
-print (get_apple_data(data))

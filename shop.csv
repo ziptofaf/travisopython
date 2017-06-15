@@ -1,6 +1,6 @@
-id;name;count;price
-1;apple;20;3.5
-2;banana;5;2.12
-3;orange;11;1.99
-4;mackerel;2;13.87
-5;vodka;99;6.81
+id;name;count;price;;
+1;apple;20;3.5;;
+2;banana;5;2.12;;)
+3;orange;11;1.99;;
+4;mackerel;2;13.87;;
+5;vodka;99;6.81;;

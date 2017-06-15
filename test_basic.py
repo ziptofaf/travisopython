@@ -1,6 +1,6 @@
 from basic import import_csv, build_shop_ui, get_apple_data, get_income_on_row, get_row_data
 
-def loading_test():
+def test_loading():
     assert type(import_csv("shop.csv")).__name__ == "list"
 
 def test_apples_row():

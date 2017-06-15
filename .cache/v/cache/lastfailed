@@ -1,0 +1,5 @@
+{
+  "test_basic.py::test_apples_row": true,
+  "test_basic.py::test_income_on_apples": true,
+  "test_basic.py::test_ui": true
+}

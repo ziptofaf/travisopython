@@ -13,7 +13,7 @@ def get_apple_data(*dataset):
     return get_row_data(0, dataset)
 
 def get_income_on_row(row):
-    count = int(row[3])
+    count = float(row[3])
     price = float(row[2])
     return count*price
 

@@ -6,7 +6,7 @@ def test_loading():
 def test_apples_row():
     data = import_csv("shop.csv")
     apples = get_apple_data(data)
-    assert apples[1] == "apples"
+    assert apples[1] == "apple"
 
 def test_income_on_apples():
     data = import_csv("shop.csv")
